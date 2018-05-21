@@ -1,39 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.4,
-            "green": 0.4,
-            "red": 0.4
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-ExtraLight",
-              "size": 12
-            }
-          },
-          "kerning": -0.12,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          }
-        },
-        "length": 717,
-        "location": 0
-      }
-    ],
-    "string": "We are Registered Pass Plus Instructors. Every month over 1000 pupils undertake the 6 hour Pass Plus course. With no test to pass the advanced course helps build confidence on the road. Covering Motorway, Night and all weather driving, rural roads, Town driving an Dual carriage ways.\n\rThe course is designed with 17 to 21 year olds in mind. It is also relevant to all new drivers no matter what age. Older drivers will also benefit from the additional training and the insurance discounts of up to 40%.\r\rOne in every 5 newly qualified drivers has or is involved in an accident within their first year on the road. New drivers make up just 10% of licence holders yet are involved in 29% of all road traffic accidents."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIikvMzs8PT4/Q0dTVFVWV1hZWltdXlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18RAs1XZSBhcmUgUmVnaXN0ZXJlZCBQYXNzIFBsdXMgSW5zdHJ1Y3RvcnMuIEV2ZXJ5IG1vbnRoIG92ZXIgMTAwMCBwdXBpbHMgdW5kZXJ0YWtlIHRoZSA2IGhvdXIgUGFzcyBQbHVzIGNvdXJzZS4gV2l0aCBubyB0ZXN0IHRvIHBhc3MgdGhlIGFkdmFuY2VkIGNvdXJzZSBoZWxwcyBidWlsZCBjb25maWRlbmNlIG9uIHRoZSByb2FkLiBDb3ZlcmluZyBNb3RvcndheSwgTmlnaHQgYW5kIGFsbCB3ZWF0aGVyIGRyaXZpbmcsIHJ1cmFsIHJvYWRzLCBUb3duIGRyaXZpbmcgYW4gRHVhbCBjYXJyaWFnZSB3YXlzLgoNVGhlIGNvdXJzZSBpcyBkZXNpZ25lZCB3aXRoIDE3IHRvIDIxIHllYXIgb2xkcyBpbiBtaW5kLiBJdCBpcyBhbHNvIHJlbGV2YW50IHRvIGFsbCBuZXcgZHJpdmVycyBubyBtYXR0ZXIgd2hhdCBhZ2UuIE9sZGVyIGRyaXZlcnMgd2lsbCBhbHNvIGJlbmVmaXQgZnJvbSB0aGUgYWRkaXRpb25hbCB0cmFpbmluZyBhbmQgdGhlIGluc3VyYW5jZSBkaXNjb3VudHMgb2YgdXAgdG8gNDAlLg0NT25lIGluIGV2ZXJ5IDUgbmV3bHkgcXVhbGlmaWVkIGRyaXZlcnMgaGFzIG9yIGlzIGludm9sdmVkIGluIGFuIGFjY2lkZW50IHdpdGhpbiB0aGVpciBmaXJzdCB5ZWFyIG9uIHRoZSByb2FkLiBOZXcgZHJpdmVycyBtYWtlIHVwIGp1c3QgMTAlIG9mIGxpY2VuY2UgaG9sZGVycyB5ZXQgYXJlIGludm9sdmVkIGluIDI5JSBvZiBhbGwgcm9hZCB0cmFmZmljIGFjY2lkZW50cy7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAqAEoAcgBtfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7UIwokJSYnKChaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodIAAgAkjQDYAAAAAAADSKissLVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIsLlhOU09iamVjdNIKMDEyXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEYAL0xESCjQ3OqI1NoAMgA2iODmADoAPgBBfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAMXxAVTW9udHNlcnJhdC1FeHRyYUxpZ2h00iorQEFfEBNOU011dGFibGVEaWN0aW9uYXJ5o0BCLlxOU0RpY3Rpb25hcnnSKitERV8QEE5TRm9udERlc2NyaXB0b3KiRi5fEBBOU0ZvbnREZXNjcmlwdG9y0xESCkhNHaRJSktMgBOAFIAVgBakTk9QUYAXgBiAGYAagBtTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP9mZmZmZmZojP/AAAAAAAAAjP9mZmZmZmZojP9mZmZmZmZrSKitCXKJCLiO/vrhR64UeuNIqK19gXxASTlNBdHRyaWJ1dGVkU3RyaW5nomEuXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WRlVHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIA1kDYANoA3MDeAN6A3wDfgOAA4UDhwOJA4sDjQOPA6IDxAPxA/gEAQQMBB4EMAQyBDQEPQRCBE0EVgRpBGwEdQR6BJcEmQSbBKIEpQSnBKkErASuBLAEsgTIBN4E4AT4BP0FEwUXBSQFKQU8BT8FUgVZBV4FYAViBWQFZgVrBW0FbwVxBXMFdQV5BX8FhAWKBZMFnAWlBa4FswW2Bb8FxAXZBdwF8QYDBgYGCwAAAAAAAAIBAAAAAAAAAGYAAAAAAAAAAAAAAAAAAAYN"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5B701427-7ED9-49E3-BEAE-E57D7310D036",
@@ -84,19 +55,11 @@
           "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-ExtraLight",
-            "size": 12
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAMXxAVTW9udHNlcnJhdC1FeHRyYUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAOQA6QD0AP0BEwEXASQBLQEyAUUBSAFbAW0BcAF1AAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXc="
         },
         "kerning": -0.12,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFhdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBBVJG51bGzUCQoLDA0ODw9aTlNUYWJTdG9wc1YkY2xhc3NfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHSAAIACI0A2AAAAAAAA0hESExRaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiExVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRGBlUcm9vdIABCBEaIy0yNztBSlVcboCChI2Snaa5vMXX2t8AAAAAAAABAQAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA4Q=="
         }
       },
       "verticalAlignment": 0

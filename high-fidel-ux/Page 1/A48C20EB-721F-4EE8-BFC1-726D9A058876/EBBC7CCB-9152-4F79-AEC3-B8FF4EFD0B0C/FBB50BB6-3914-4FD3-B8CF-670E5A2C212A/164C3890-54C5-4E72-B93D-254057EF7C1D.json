@@ -1,37 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.607922554,
-            "green": 0.6078033447,
-            "red": 0.6078922153
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-ExtraLight",
-              "size": 22
-            }
-          },
-          "kerning": -0.3447761,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 18,
-        "location": 0
-      }
-    ],
-    "string": "School of Motoring"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIiYsMDg5Ojs8QERQUVJTVFVWV1haW1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QElNjaG9vbCBvZiBNb3RvcmluZ9MREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgByAG18QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtIKIyQlWk5TVGFiU3RvcHOACYAA0icoKSpaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiKStYTlNPYmplY3TSCi0uL18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgoxNDeiMjOADIANojU2gA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQFl8QFU1vbnRzZXJyYXQtRXh0cmFMaWdodNInKD0+XxATTlNNdXRhYmxlRGljdGlvbmFyeaM9PytcTlNEaWN0aW9uYXJ50icoQUJfEBBOU0ZvbnREZXNjcmlwdG9yokMrXxAQTlNGb250RGVzY3JpcHRvctMREgpFSh2kRkdISYATgBSAFYAWpEtMTU6AF4AYgBmAGoAbU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/jc9pgBpuTIz/wAAAAAAAAIz/jdBn//ckQIz/jcx///Flq0icoP1miPysjv9YQz8Z8ULPSJyhcXV8QEk5TQXR0cmlidXRlZFN0cmluZ6JeK18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFhYlRyb290gAEACAARABoAIwAtADIANwBYAF4AZQBuAHUAggCEAIYAiACdAKQArAC3ALwAvgDAAMIAxADJAMsAzQDPANEA0wDmAQgBNQE8AUEBTAFOAVABVQFgAWkBfAF/AYgBjQGqAawBrgG1AbgBugG8Ab8BwQHDAcUB2wHxAfMCCwIQAiYCKgI3AjwCTwJSAmUCbAJxAnMCdQJ3AnkCfgKAAoIChAKGAogCjAKSApcCnQKmAq8CuALBAsYCyQLSAtcC7ALvAwQDFgMZAx4AAAAAAAACAQAAAAAAAABjAAAAAAAAAAAAAAAAAAADIA=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "164C3890-54C5-4E72-B93D-254057EF7C1D",
@@ -82,17 +55,11 @@
           "red": 0.6078922153
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-ExtraLight",
-            "size": 22
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAWXxAVTW9udHNlcnJhdC1FeHRyYUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAOQA6QD0AP0BEwEXASQBLQEyAUUBSAFbAW0BcAF1AAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXc="
         },
         "kerning": -0.3447761,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGExRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA1VJG51bGzSCQoLDFYkY2xhc3NaTlNUYWJTdG9wc4ACgADSDg8QEVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIQElhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEVFlRyb290gAEIERojLTI3O0FGTVhaXGFsdYiLlKaprgAAAAAAAAEBAAAAAAAAABcAAAAAAAAAAAAAAAAAAACw"
         }
       },
       "verticalAlignment": 0

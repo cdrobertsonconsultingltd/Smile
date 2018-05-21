@@ -1,37 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-ExtraLight",
-              "size": 19
-            }
-          },
-          "kerning": -0.2977612,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 18,
-        "location": 0
-      }
-    ],
-    "string": "School of Motoring"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXF1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiYsMDg5Ojs8QERQUVJTVFVXWFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QElNjaG9vbCBvZiBNb3RvcmluZ9MREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgBmAGF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtIKIyQlWk5TVGFiU3RvcHOACYAA0icoKSpaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiKStYTlNPYmplY3TSCi0uL18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgoxNDeiMjOADIANojU2gA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQE18QFU1vbnRzZXJyYXQtRXh0cmFMaWdodNInKD0+XxATTlNNdXRhYmxlRGljdGlvbmFyeaM9PytcTlNEaWN0aW9uYXJ50icoQUJfEBBOU0ZvbnREZXNjcmlwdG9yokMrXxAQTlNGb250RGVzY3JpcHRvctMREgpFSh2kRkdISYATgBSAFYAWpEtLS0uAF4AXgBeAF4AYU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/wAAAAAAAA0icoP1aiPysjv9MOhP4BIj/SJyhZWl8QEk5TQXR0cmlidXRlZFN0cmluZ6JbK18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFeX1Ryb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQCaAKEAqQC0ALkAuwC9AL8AwQDGAMgAygDMAM4A0ADjAQUBMgE5AT4BSQFLAU0BUgFdAWYBeQF8AYUBigGnAakBqwGyAbUBtwG5AbwBvgHAAcIB2AHuAfACCAINAiMCJwI0AjkCTAJPAmICaQJuAnACcgJ0AnYCewJ9An8CgQKDAoUCiQKPApQCmgKjAqgCqwK0ArkCzgLRAuYC+AL7AwAAAAAAAAACAQAAAAAAAABgAAAAAAAAAAAAAAAAAAADAg=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0C3F8EA5-ED36-4AB6-A2F5-ACB3AD20CCCF",
@@ -49,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 23,
-    "width": 170,
+    "width": 171,
     "x": 81,
     "y": 40
   },
@@ -82,17 +55,11 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-ExtraLight",
-            "size": 19
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRATXxAVTW9udHNlcnJhdC1FeHRyYUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAOQA6QD0AP0BEwEXASQBLQEyAUUBSAFbAW0BcAF1AAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXc="
         },
         "kerning": -0.2977612,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGExRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA1VJG51bGzSCQoLDFYkY2xhc3NaTlNUYWJTdG9wc4ACgADSDg8QEVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIQElhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEVFlRyb290gAEIERojLTI3O0FGTVhaXGFsdYiLlKaprgAAAAAAAAEBAAAAAAAAABcAAAAAAAAAAAAAAAAAAACw"
         }
       },
       "verticalAlignment": 0

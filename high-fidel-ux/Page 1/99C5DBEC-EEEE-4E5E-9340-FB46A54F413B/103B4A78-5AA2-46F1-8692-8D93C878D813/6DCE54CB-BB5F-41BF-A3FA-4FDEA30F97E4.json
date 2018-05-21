@@ -1,37 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.4,
-            "green": 0.4,
-            "red": 0.4
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-ExtraLight",
-              "size": 12
-            }
-          },
-          "kerning": -0.12,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 12,
-        "location": 0
-      }
-    ],
-    "string": "Driving Test"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIiYsMDg5Ojs8QERQUVJTVFVWV1haW1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA1xEcml2aW5nIFRlc3TTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAqAEoAcgBtfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7SCiMkJVpOU1RhYlN0b3BzgAmAANInKCkqWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxloikrWE5TT2JqZWN00gotLi9fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ARgAvTERIKMTQ3ojIzgAyADaI1NoAOgA+AEF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEAxfEBVNb250c2VycmF0LUV4dHJhTGlnaHTSJyg9Pl8QE05TTXV0YWJsZURpY3Rpb25hcnmjPT8rXE5TRGljdGlvbmFyedInKEFCXxAQTlNGb250RGVzY3JpcHRvcqJDK18QEE5TRm9udERlc2NyaXB0b3LTERIKRUodpEZHSEmAE4AUgBWAFqRLTE1OgBeAGIAZgBqAG1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/2ZmZmZmZmiM/8AAAAAAAACM/2ZmZmZmZmiM/2ZmZmZmZmtInKD9Zoj8rI7++uFHrhR640icoXF1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXitfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYWJUcm9vdIABAAgAEQAaACMALQAyADcAWABeAGUAbgB1AIIAhACGAIgAlQCcAKQArwC0ALYAuAC6ALwAwQDDAMUAxwDJAMsA3gEAAS0BNAE5AUQBRgFIAU0BWAFhAXQBdwGAAYUBogGkAaYBrQGwAbIBtAG3AbkBuwG9AdMB6QHrAgMCCAIeAiICLwI0AkcCSgJdAmQCaQJrAm0CbwJxAnYCeAJ6AnwCfgKAAoQCigKPApUCngKnArACuQK+AsECygLPAuQC5wL8Aw4DEQMWAAAAAAAAAgEAAAAAAAAAYwAAAAAAAAAAAAAAAAAAAxg="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6DCE54CB-BB5F-41BF-A3FA-4FDEA30F97E4",
@@ -49,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 66,
+    "width": 69,
     "x": 0,
     "y": 54
   },
@@ -82,17 +55,11 @@
           "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-ExtraLight",
-            "size": 12
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAMXxAVTW9udHNlcnJhdC1FeHRyYUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAOQA6QD0AP0BEwEXASQBLQEyAUUBSAFbAW0BcAF1AAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXc="
         },
         "kerning": -0.12,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGExRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA1VJG51bGzSCQoLDFYkY2xhc3NaTlNUYWJTdG9wc4ACgADSDg8QEVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIQElhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEVFlRyb290gAEIERojLTI3O0FGTVhaXGFsdYiLlKaprgAAAAAAAAEBAAAAAAAAABcAAAAAAAAAAAAAAAAAAACw"
         }
       },
       "verticalAlignment": 0

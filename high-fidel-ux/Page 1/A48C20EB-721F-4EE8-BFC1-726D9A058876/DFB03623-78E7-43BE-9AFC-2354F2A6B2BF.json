@@ -1,39 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5529411765,
-            "green": 0.5450980392,
-            "red": 0.5333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-Light",
-              "size": 20
-            }
-          },
-          "kerning": 0.8888889,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
-          }
-        },
-        "length": 290,
-        "location": 0
-      }
-    ],
-    "string": "I have been choosy over who drives for Smile as it has always been my goal to deliver the very best driving lesson which is tailored to the individuals need and at an affordable cost. For the future I aim to build the school slowly and methodically so as to preserve the ethos behind Smile."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIikvMzs8PT4/Q0dTVFVWV1hZWltdXlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18RASJJIGhhdmUgYmVlbiBjaG9vc3kgb3ZlciB3aG8gZHJpdmVzIGZvciBTbWlsZSBhcyBpdCBoYXMgYWx3YXlzIGJlZW4gbXkgZ29hbCB0byBkZWxpdmVyIHRoZSB2ZXJ5IGJlc3QgZHJpdmluZyBsZXNzb24gd2hpY2ggaXMgdGFpbG9yZWQgdG8gdGhlIGluZGl2aWR1YWxzIG5lZWQgYW5kIGF0IGFuIGFmZm9yZGFibGUgY29zdC4gRm9yIHRoZSBmdXR1cmUgSSBhaW0gdG8gYnVpbGQgdGhlIHNjaG9vbCBzbG93bHkgYW5kIG1ldGhvZGljYWxseSBzbyBhcyB0byBwcmVzZXJ2ZSB0aGUgZXRob3MgYmVoaW5kIFNtaWxlLtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgByAG18QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtQjCiQlJicoKFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0gACACSNAPAAAAAAAANIqKywtWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxloiwuWE5TT2JqZWN00gowMTJfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ARgAvTERIKNDc6ojU2gAyADaI4OYAOgA+AEF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBRfEBBNb250c2VycmF0LUxpZ2h00iorQEFfEBNOU011dGFibGVEaWN0aW9uYXJ5o0BCLlxOU0RpY3Rpb25hcnnSKitERV8QEE5TRm9udERlc2NyaXB0b3KiRi5fEBBOU0ZvbnREZXNjcmlwdG9y0xESCkhNHaRJSktMgBOAFIAVgBakTk9QUYAXgBiAGYAagBtTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+EREREMfEEjP/AAAAAAAAAjP+GxsbG1vIcjP+FxcXFvSYjSKitCXKJCLiM/7HHHImjglNIqK19gXxASTlNBdHRyaWJ1dGVkU3RyaW5nomEuXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WRlVHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIAa4BtQG9AcgBzQHPAdEB0wHVAdoB3AHeAeAB4gHkAfcCGQJGAk0CVgJhAnMChQKHAokCkgKXAqICqwK+AsECygLPAuwC7gLwAvcC+gL8Av4DAQMDAwUDBwMdAzMDNQNIA00DYwNnA3QDeQOMA48DogOpA64DsAOyA7QDtgO7A70DvwPBA8MDxQPJA88D1APaA+MD7AP1A/4EAwQGBA8EFAQpBCwEQQRTBFYEWwAAAAAAAAIBAAAAAAAAAGYAAAAAAAAAAAAAAAAAAARd"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DFB03623-78E7-43BE-9AFC-2354F2A6B2BF",
@@ -84,19 +55,11 @@
           "red": 0.5333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-Light",
-            "size": 20
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAUXxAQTW9udHNlcnJhdC1MaWdodNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoAzADfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
         },
         "kerning": 0.8888889,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 28,
-          "minimumLineHeight": 28
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFhdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBBVJG51bGzUCQoLDA0ODw9aTlNUYWJTdG9wc1YkY2xhc3NfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHSAAIACI0A8AAAAAAAA0hESExRaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiExVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRGBlUcm9vdIABCBEaIy0yNztBSlVcboCChI2Snaa5vMXX2t8AAAAAAAABAQAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA4Q=="
         }
       },
       "verticalAlignment": 0

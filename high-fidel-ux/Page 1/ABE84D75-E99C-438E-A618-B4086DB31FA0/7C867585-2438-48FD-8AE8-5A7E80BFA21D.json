@@ -1,37 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2902374566,
-            "green": 0.2901752889,
-            "red": 0.2902216315
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-Light",
-              "size": 14
-            }
-          },
-          "kerning": -0.219403,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 15,
-        "location": 0
-      }
-    ],
-    "string": "Friday 13th May"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIiYsMDg5Ojs8QERQUVJTVFVWV1haW1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QD0ZyaWRheSAxM3RoIE1hedMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgByAG18QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtIKIyQlWk5TVGFiU3RvcHOACYAA0icoKSpaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiKStYTlNPYmplY3TSCi0uL18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgoxNDeiMjOADIANojU2gA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQDl8QEE1vbnRzZXJyYXQtTGlnaHTSJyg9Pl8QE05TTXV0YWJsZURpY3Rpb25hcnmjPT8rXE5TRGljdGlvbmFyedInKEFCXxAQTlNGb250RGVzY3JpcHRvcqJDK18QEE5TRm9udERlc2NyaXB0b3LTERIKRUodpEZHSEmAE4AUgBWAFqRLTE1OgBeAGIAZgBqAG1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/0pL9v/iXxiM/8AAAAAAAACM/0pNAIAr1QiM/0pI7X/uz2NInKD9Zoj8rI7/MFWXC0ngH0icoXF1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXitfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYWJUcm9vdIABAAgAEQAaACMALQAyADcAWABeAGUAbgB1AIIAhACGAIgAmgChAKkAtAC5ALsAvQC/AMEAxgDIAMoAzADOANAA4wEFATIBOQE+AUkBSwFNAVIBXQFmAXkBfAGFAYoBpwGpAasBsgG1AbcBuQG8Ab4BwAHCAdgB7gHwAgMCCAIeAiICLwI0AkcCSgJdAmQCaQJrAm0CbwJxAnYCeAJ6AnwCfgKAAoQCigKPApUCngKnArACuQK+AsECygLPAuQC5wL8Aw4DEQMWAAAAAAAAAgEAAAAAAAAAYwAAAAAAAAAAAAAAAAAAAxg="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7C867585-2438-48FD-8AE8-5A7E80BFA21D",
@@ -49,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 101,
+    "width": 104,
     "x": 73,
     "y": 310
   },
@@ -82,17 +55,11 @@
           "red": 0.2902216315
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-Light",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAQTW9udHNlcnJhdC1MaWdodNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoAzADfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
         },
         "kerning": -0.219403,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGExRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA1VJG51bGzSCQoLDFYkY2xhc3NaTlNUYWJTdG9wc4ACgADSDg8QEVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIQElhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEVFlRyb290gAEIERojLTI3O0FGTVhaXGFsdYiLlKaprgAAAAAAAAEBAAAAAAAAABcAAAAAAAAAAAAAAAAAAACw"
         }
       },
       "verticalAlignment": 0

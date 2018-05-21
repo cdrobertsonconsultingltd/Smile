@@ -1,38 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5529411764705883,
-            "green": 0.5450980392156862,
-            "red": 0.5333333333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-ExtraLight",
-              "size": 14
-            }
-          },
-          "kerning": 0.9999998,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 55,
-        "location": 0
-      }
-    ],
-    "string": "One hour lesson with a fully qualified Smile instructor"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZWZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAgISIjJCUmMjM0NTY3ODk6QERMTU5PUFNXXWBhVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxA3T25lIGhvdXIgbGVzc29uIHdpdGggYSBmdWxseSBxdWFsaWZpZWQgU21pbGUgaW5zdHJ1Y3RvctMREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgAqAFIAcgB6AE1ZOU0tlcm5fECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QHXRleHRTdHlsZVZlcnRpY2FsQWxpZ25tZW50S2V5Iz/v//+UoDWV0xESCicsH6QoKSorgAuADIANgA6kLS4vMIAPgBCAEYASgBNTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+EREREREREjP/AAAAAAAAAjP+GxsbGxsbIjP+FxcXFxcXHSOzw9PlokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI9P1hOU09iamVjdNIKQUJDXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAG4AV0xESCkVIS6JGR4AWgBeiSUqAGIAZgBpfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAVTW9udHNlcnJhdC1FeHRyYUxpZ2h00js8UVJfEBNOU011dGFibGVEaWN0aW9uYXJ5o1E9P9I7PFRVXxAQTlNGb250RGVzY3JpcHRvcqJWP18QEE5TRm9udERlc2NyaXB0b3LTWApZWltcWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnSAAIAdEALSOzxeX18QEE5TUGFyYWdyYXBoU3R5bGWiXj8QANI7PGJjXxASTlNBdHRyaWJ1dGVkU3RyaW5nomQ/XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WdoVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKAMQAywDTAN4A5ADmAOgA6gDsAO4A9AD2APgA+gD8AP4BAAEHATQBVgFpAYkBkgGZAZ4BoAGiAaQBpgGrAa0BrwGxAbMBtQG5Ab8BxAHKAdMB3AHlAe4B8wH+AgcCFAIXAiACJQJCAkQCRgJNAlACUgJUAlcCWQJbAl0CcwKJAosCowKoAr4CwgLHAtoC3QLwAvcDAgMOAxADEgMUAxkDLAMvAzEDNgNLA04DYwN1A3gDfQAAAAAAAAIBAAAAAAAAAGkAAAAAAAAAAAAAAAAAAAN/"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "766AD77E-8B94-4161-8CB8-586D88B9543B",
@@ -87,17 +59,11 @@
           "red": 0.5333333333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-ExtraLight",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAVTW9udHNlcnJhdC1FeHRyYUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAOQA6QD0AP0BEwEXASQBLQEyAUUBSAFbAW0BcAF1AAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXc="
         },
         "kerning": 0.9999998,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OWk5TVGFiU3RvcHNWJGNsYXNzW05TQWxpZ25tZW50gACAAhAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiEhRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRFxhUcm9vdIABCBEaIy0yNztBSFNaZmhqbHF8hZibpLa5vgAAAAAAAAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAADA"
         },
         "textStyleVerticalAlignmentKey": 0
       },

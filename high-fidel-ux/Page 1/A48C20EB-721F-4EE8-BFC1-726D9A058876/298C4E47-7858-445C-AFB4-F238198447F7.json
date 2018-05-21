@@ -1,39 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5529411765,
-            "green": 0.5450980392,
-            "red": 0.5333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-Light",
-              "size": 28
-            }
-          },
-          "kerning": -0.3761194,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
-          }
-        },
-        "length": 185,
-        "location": 0
-      }
-    ],
-    "string": "We have a professional yet relaxed and fun approach to learning to drive which has been enjoyed by hundreds of pupils over the years. With an excellent pass rate and positive referrals."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZGVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIisxNT0+P0BBRUlVVldYWVpbXF1fYFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QuVdlIGhhdmUgYSBwcm9mZXNzaW9uYWwgeWV0IHJlbGF4ZWQgYW5kIGZ1biBhcHByb2FjaCB0byBsZWFybmluZyB0byBkcml2ZSB3aGljaCBoYXMgYmVlbiBlbmpveWVkIGJ5IGh1bmRyZWRzIG9mIHB1cGlscyBvdmVyIHRoZSB5ZWFycy4gV2l0aCBhbiBleGNlbGxlbnQgcGFzcyByYXRlIGFuZCBwb3NpdGl2ZSByZWZlcnJhbHMu0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAKgBKAHIAbXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1SMkJQomJygpKilbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodBACgAAjQEIAAAAAAACACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxloi4wWE5TT2JqZWN00goyMzRfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ARgAvTERIKNjk8ojc4gAyADaI6O4AOgA+AEF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBxfEBBNb250c2VycmF0LUxpZ2h00iwtQkNfEBNOU011dGFibGVEaWN0aW9uYXJ5o0JEMFxOU0RpY3Rpb25hcnnSLC1GR18QEE5TRm9udERlc2NyaXB0b3KiSDBfEBBOU0ZvbnREZXNjcmlwdG9y0xESCkpPHaRLTE1OgBOAFIAVgBakUFFSU4AXgBiAGYAagBtTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+EREREMfEEjP/AAAAAAAAAjP+GxsbG1vIcjP+FxcXFvSYjSLC1EXqJEMCO/2BJXGpkIetIsLWFiXxASTlNBdHRyaWJ1dGVkU3RyaW5nomMwXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WZnVHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIAUQBSwFTAV4BYwFlAWcBaQFrAXABcgF0AXYBeAF6AY0BrwHcAeMB7gH6AgUCFwIpAisCLQI2AjgCPQJIAlECZAJnAnACdQKSApQClgKdAqACogKkAqcCqQKrAq0CwwLZAtsC7gLzAwkDDQMaAx8DMgM1A0gDTwNUA1YDWANaA1wDYQNjA2UDZwNpA2sDbwN1A3oDgAOJA5IDmwOkA6kDrAO1A7oDzwPSA+cD+QP8BAEAAAAAAAACAQAAAAAAAABoAAAAAAAAAAAAAAAAAAAEAw=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "298C4E47-7858-445C-AFB4-F238198447F7",
@@ -84,19 +55,11 @@
           "red": 0.5333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-Light",
-            "size": 28
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAcXxAQTW9udHNlcnJhdC1MaWdodNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoAzADfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
         },
         "kerning": -0.3761194,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 36,
-          "minimumLineHeight": 36
+          "_archive": "YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBJVJG51bGzVCQoLDA0ODxAREFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0ViRjbGFzc18QD05TTWF4TGluZUhlaWdodBACgAAjQEIAAAAAAACAAtITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlohUXWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RobVHJvb3SAAQgRGiMtMjc7QUxYY3V8jpCSm52irbbJzNXn6u8AAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA8Q=="
         }
       },
       "verticalAlignment": 0

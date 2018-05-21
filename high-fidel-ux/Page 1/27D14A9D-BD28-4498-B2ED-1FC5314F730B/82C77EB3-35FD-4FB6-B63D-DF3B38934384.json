@@ -1,68 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.6078431373,
-            "green": 0.6078431373,
-            "red": 0.6078431373
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-Light",
-              "size": 28
-            }
-          },
-          "kerning": -0.2800000011920929,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
-          }
-        },
-        "length": 126,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.6078431373,
-            "green": 0.6078431373,
-            "red": 0.6078431373
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-Light",
-              "size": 28
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
-          }
-        },
-        "length": 1,
-        "location": 126
-      }
-    ],
-    "string": "Contact us today to find out more. Whether you’re learning from scratch, or looking to cover the Pass plus course, we can help."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "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"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "82C77EB3-35FD-4FB6-B63D-DF3B38934384",
@@ -113,19 +55,11 @@
           "red": 0.6078431373
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-Light",
-            "size": 28
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAcXxAQTW9udHNlcnJhdC1MaWdodNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoAzADfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
         },
         "kerning": -0.2800000011920929,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 36,
-          "minimumLineHeight": 36
+          "_archive": "YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBJVJG51bGzVCQoLDA0ODxAREFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0ViRjbGFzc18QD05TTWF4TGluZUhlaWdodBACgAAjQEIAAAAAAACAAtITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlohUXWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RobVHJvb3SAAQgRGiMtMjc7QUxYY3V8jpCSm52irbbJzNXn6u8AAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA8Q=="
         }
       },
       "verticalAlignment": 0

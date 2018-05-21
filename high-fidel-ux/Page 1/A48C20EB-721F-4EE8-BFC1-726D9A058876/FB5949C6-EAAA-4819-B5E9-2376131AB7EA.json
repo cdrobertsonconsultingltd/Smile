@@ -1,68 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5529411765,
-            "green": 0.5450980392,
-            "red": 0.5333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-Light",
-              "size": 18
-            }
-          },
-          "kerning": 0.800000011920929,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
-          }
-        },
-        "length": 394,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5529411765,
-            "green": 0.5450980392,
-            "red": 0.5333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-Light",
-              "size": 18
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
-          }
-        },
-        "length": 1,
-        "location": 394
-      }
-    ],
-    "string": "Welcome to Smile school of motoring, we are Edinburgh’s brightest driving school. We have a professional yet relaxed and fun approach to learning to drive which has been enjoyed by hundreds of pupils over the years. With an excellent pass rate and positive referrals. Contact us today to find out more. Whether you’re learning from scratch, or looking to cover the Pass plus course, we can help."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGn6BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKwcIERIYJSYnKCkwNjpCQ0RFRkpOWltcXV5fYGFiZGVxdHd/i4yNjo+Tl5tVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgCiAA4AqbxEBiwBXAGUAbABjAG8AbQBlACAAdABvACAAUwBtAGkAbABlACAAcwBjAGgAbwBvAGwAIABvAGYAIABtAG8AdABvAHIAaQBuAGcALAAgAHcAZQAgAGEAcgBlACAARQBkAGkAbgBiAHUAcgBnAGggGQBzACAAYgByAGkAZwBoAHQAZQBzAHQAIABkAHIAaQB2AGkAbgBnACAAcwBjAGgAbwBvAGwALgAgAFcAZQAgAGgAYQB2AGUAIABhACAAcAByAG8AZgBlAHMAcwBpAG8AbgBhAGwAIAB5AGUAdAAgAHIAZQBsAGEAeABlAGQAIABhAG4AZAAgAGYAdQBuACAAYQBwAHAAcgBvAGEAYwBoACAAdABvACAAbABlAGEAcgBuAGkAbgBnACAAdABvACAAZAByAGkAdgBlACAAdwBoAGkAYwBoACAAaABhAHMAIABiAGUAZQBuACAAZQBuAGoAbwB5AGUAZAAgAGIAeQAgAGgAdQBuAGQAcgBlAGQAcwAgAG8AZgAgAHAAdQBwAGkAbABzACAAbwB2AGUAcgAgAHQAaABlACAAeQBlAGEAcgBzAC4AIABXAGkAdABoACAAYQBuACAAZQB4AGMAZQBsAGwAZQBuAHQAIABwAGEAcwBzACAAcgBhAHQAZQAgAGEAbgBkACAAcABvAHMAaQB0AGkAdgBlACAAcgBlAGYAZQByAHIAYQBsAHMALgAgAEMAbwBuAHQAYQBjAHQAIAB1AHMAIAB0AG8AZABhAHkAIAB0AG8AIABmAGkAbgBkACAAbwB1AHQAIABtAG8AcgBlAC4AIABXAGgAZQB0AGgAZQByACAAeQBvAHUgGQByAGUAIABsAGUAYQByAG4AaQBuAGcAIABmAHIAbwBtACAAcwBjAHIAYQB0AGMAaAAsACAAbwByACAAbABvAG8AawBpAG4AZwAgAHQAbwAgAGMAbwB2AGUAcgAgAHQAaABlACAAUABhAHMAcwAgAHAAbAB1AHMAIABjAG8AdQByAHMAZQAsACAAdwBlACAAYwBhAG4AIABoAGUAbABwAC7SEwwUF1pOUy5vYmplY3RzohUWgASAHoAn0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmAC4ATgB2AHF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtQqDCssLS4vL1pOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0gACACiNAPAAAAAAAANIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlojM1WE5TT2JqZWN00gw3ODlfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTGRMMOz5Bojw9gA2ADqI/QIAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBJfEBBNb250c2VycmF0LUxpZ2h00jEyR0hfEBNOU011dGFibGVEaWN0aW9uYXJ5o0dJNVxOU0RpY3Rpb25hcnnSMTJLTF8QEE5TRm9udERlc2NyaXB0b3KiTTVfEBBOU0ZvbnREZXNjcmlwdG9y0xkTDE9UJKRQUVJTgBSAFYAWgBekVVZXWIAYgBmAGoAbgBxTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+EREREMfEEjP/AAAAAAAAAjP+GxsbG1vIcjP+FxcXFvSYjSMTJJY6JJNSM/6ZmZoAAAANMZEwxmaySkGxwdHoAFgAaAB4AIpGxtbm+AH4AggCKAJoAc1CoMKywtLi8vgACACtIMNzh2gBKAIdMZEwx4e0GiPD2ADYAOoj9AgA+AEIAR0xkTDICFJKRQUVJTgBSAFYAWgBekhlaIiYAjgBmAJIAlgBwjP+EREREMfEEjP+GxsbG1vIcjP+FxcXFvSYgQANIxMpCRXk5TTXV0YWJsZUFycmF5o5CSNVdOU0FycmF50pQMlZZXTlMuZGF0YUWKAwABAYAp0jEymJldTlNNdXRhYmxlRGF0YaOYmjVWTlNEYXRh0jEynJ1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeinjVfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRoaJUcm9vdIABAAgAEQAaACMALQAyADcAZQBrAHQAfQCPAJwAowClAKcAqQCrA8UDygPVA9gD2gPcA94D5QPtA/ID9AP2A/gD+gP/BAEEAwQFBAcECQQcBD4EawRyBHsEhgSYBKoErASuBLcEvATHBNAE4wTmBO8E9AURBRMFFQUcBR8FIQUjBSYFKAUqBSwFQgVYBVoFbQVyBYgFjAWZBZ4FsQW0BccFzgXTBdUF1wXZBdsF4AXiBeQF5gXoBeoF7gX0BfkF/wYIBhEGGgYjBigGKwY0BjsGQAZCBkQGRgZIBk0GTwZRBlMGVQZXBmAGYgZkBmkGawZtBnQGdwZ5BnsGfgaABoIGhAaLBpAGkgaUBpYGmAadBp8GoQajBqUGpwawBrkGwgbEBskG2AbcBuQG6QbxBvcG+Qb+BwwHEAcXBxwHMQc0B0kHWwdeB2MAAAAAAAACAQAAAAAAAACjAAAAAAAAAAAAAAAAAAAHZQ=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FB5949C6-EAAA-4819-B5E9-2376131AB7EA",
@@ -113,19 +55,11 @@
           "red": 0.5333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-Light",
-            "size": 18
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASXxAQTW9udHNlcnJhdC1MaWdodNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoAzADfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
         },
         "kerning": 0.800000011920929,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 28,
-          "minimumLineHeight": 28
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFhdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBBVJG51bGzUCQoLDA0ODw9aTlNUYWJTdG9wc1YkY2xhc3NfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHSAAIACI0A8AAAAAAAA0hESExRaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiExVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRGBlUcm9vdIABCBEaIy0yNztBSlVcboCChI2Snaa5vMXX2t8AAAAAAAABAQAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA4Q=="
         }
       },
       "verticalAlignment": 0

@@ -1,39 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5529411765,
-            "green": 0.5450980392,
-            "red": 0.5333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-Light",
-              "size": 18
-            }
-          },
-          "kerning": 0.800000011920929,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 29,
-            "minimumLineHeight": 29
-          }
-        },
-        "length": 441,
-        "location": 0
-      }
-    ],
-    "string": "12 years ago I set about my training with the goal of becoming the best instructor I possibly could, I passed all of my tests to qualify in September 2005. After a brief period of working for a large school I decided that I would start up Smile school of motoring. I began on my own and after a couple of years through a combination of recommendations and reviews we have built the school up to having a small group of dedicated instructors."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZGVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIisxNT0+P0BBRUlVVldYWVpbXF1fYFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18RAbkxMiB5ZWFycyBhZ28gSSBzZXQgYWJvdXQgbXkgdHJhaW5pbmcgd2l0aCB0aGUgZ29hbCBvZiBiZWNvbWluZyB0aGUgYmVzdCBpbnN0cnVjdG9yIEkgcG9zc2libHkgY291bGQsIEkgcGFzc2VkIGFsbCBvZiBteSB0ZXN0cyB0byBxdWFsaWZ5IGluIFNlcHRlbWJlciAyMDA1LiBBZnRlciBhIGJyaWVmIHBlcmlvZCBvZiB3b3JraW5nIGZvciBhIGxhcmdlIHNjaG9vbCBJIGRlY2lkZWQgdGhhdCBJIHdvdWxkIHN0YXJ0IHVwIFNtaWxlIHNjaG9vbCBvZiBtb3RvcmluZy4gSSBiZWdhbiBvbiBteSBvd24gYW5kIGFmdGVyIGEgY291cGxlIG9mIHllYXJzIHRocm91Z2ggYSBjb21iaW5hdGlvbiBvZiByZWNvbW1lbmRhdGlvbnMgYW5kIHJldmlld3Mgd2UgaGF2ZSBidWlsdCB0aGUgc2Nob29sIHVwIHRvIGhhdmluZyBhIHNtYWxsIGdyb3VwIG9mIGRlZGljYXRlZCBpbnN0cnVjdG9ycy7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAqAEoAcgBtfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7VIyQlCiYnKCkqKVtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0EAKAACNAPQAAAAAAAIAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiLjBYTlNPYmplY3TSCjIzNF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgo2OTyiNziADIANojo7gA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQEl8QEE1vbnRzZXJyYXQtTGlnaHTSLC1CQ18QE05TTXV0YWJsZURpY3Rpb25hcnmjQkQwXE5TRGljdGlvbmFyedIsLUZHXxAQTlNGb250RGVzY3JpcHRvcqJIMF8QEE5TRm9udERlc2NyaXB0b3LTERIKSk8dpEtMTU6AE4AUgBWAFqRQUVJTgBeAGIAZgBqAG1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/4REREQx8QSM/8AAAAAAAACM/4bGxsbW8hyM/4XFxcW9JiNIsLUReokQwIz/pmZmgAAAA0iwtYWJfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiYzBfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRZmdUcm9vdIABAAgAEQAaACMALQAyADcAWABeAGUAbgB1AIIAhACGAIgCRQJMAlQCXwJkAmYCaAJqAmwCcQJzAnUCdwJ5AnsCjgKwAt0C5ALvAvsDBgMYAyoDLAMuAzcDOQM+A0kDUgNlA2gDcQN2A5MDlQOXA54DoQOjA6UDqAOqA6wDrgPEA9oD3APvA/QECgQOBBsEIAQzBDYESQRQBFUEVwRZBFsEXQRiBGQEZgRoBGoEbARwBHYEewSBBIoEkwScBKUEqgStBLYEuwTQBNME6AT6BP0FAgAAAAAAAAIBAAAAAAAAAGgAAAAAAAAAAAAAAAAAAAUE"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2BACA382-F935-4F1F-A997-91E062A0D2DA",
@@ -84,19 +55,11 @@
           "red": 0.5333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Montserrat-Light",
-            "size": 18
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASXxAQTW9udHNlcnJhdC1MaWdodNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoAzADfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
         },
         "kerning": 0.800000011920929,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 29,
-          "minimumLineHeight": 29
+          "_archive": "YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBJVJG51bGzVCQoLDA0ODxAREFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0ViRjbGFzc18QD05TTWF4TGluZUhlaWdodBACgAAjQD0AAAAAAACAAtITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlohUXWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RobVHJvb3SAAQgRGiMtMjc7QUxYY3V8jpCSm52irbbJzNXn6u8AAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA8Q=="
         }
       },
       "verticalAlignment": 0
