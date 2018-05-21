@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "7E19D9C5-0704-46D6-9983-FEAFE5402F74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 842,
+    "width": 595,
+    "x": 2140,
+    "y": -1624
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5B701427-7ED9-49E3-BEAE-E57D7310D036"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCDFE9C4-07E6-47F6-A965-604EF9B5DBF2"
+    },
+    {
+      "class": "text",
+      "id": "9B724A96-FE96-4D5F-B24E-8AFA26ACFCE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "218A8BCB-4AD1-468E-B581-D781B0551B5D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71961D72-9580-431C-8D68-EC38BE8BE7A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "525AF8A1-5781-4B2A-9DF3-103E7A1C1CE8"
+    },
+    {
+      "class": "text",
+      "id": "F2A78EEA-1C57-4722-A100-7F1AEA7910DB"
+    },
+    {
+      "class": "text",
+      "id": "80E0B159-5F12-4466-8EA1-31EFFB188A8A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48A0E84D-23E1-4540-AC20-9910CE25B24B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "66FF0D82-04E6-4D44-9815-2D6229FC2443"
+    }
+  ],
+  "name": "Plus pass",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 842,
+    "name": "A4",
+    "offersLandscapeVariant": 1,
+    "width": 595
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

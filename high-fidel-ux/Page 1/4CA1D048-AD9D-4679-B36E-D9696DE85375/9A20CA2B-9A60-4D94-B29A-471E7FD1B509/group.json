@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "9A20CA2B-9A60-4D94-B29A-471E7FD1B509",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "eps",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 92,
+    "width": 309,
+    "x": 877,
+    "y": 130
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "718F897E-58E8-424A-8607-579FAD67BC97"
+    },
+    {
+      "class": "text",
+      "id": "6FB1E70C-512D-4EFA-9AC8-E09815189902"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "605D418F-A778-4724-8693-4D4A0C08D383"
+    },
+    {
+      "class": "group",
+      "id": "82BA23FD-D97F-4BA0-90D2-6C2D438D5108"
+    },
+    {
+      "class": "text",
+      "id": "119F3394-F60C-45ED-8029-43B9C2F9C7FC"
+    }
+  ],
+  "name": "Smile Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

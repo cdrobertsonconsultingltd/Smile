@@ -1,0 +1,208 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "848474C5-38AA-4F03-9F67-3697231D6D8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3618,
+    "width": 414,
+    "x": 6988,
+    "y": -400
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "29428BC7-0832-4F86-8455-CF3D58AAB321"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCA4948B-543E-4F1A-8AF1-30E94B4C8F6C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D56829F-601C-4111-99BC-AC2A89DE2B75"
+    },
+    {
+      "class": "group",
+      "id": "99B7174B-36F4-48CE-9A7F-4B22FC970DD7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F691D185-08CC-4C21-8BA1-DDCBACE72902"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F72269AD-A8B6-4109-BB7D-D504AC09D9C7"
+    },
+    {
+      "class": "text",
+      "id": "43D857EB-BB83-48E8-9243-DB1DCDE52672"
+    },
+    {
+      "class": "text",
+      "id": "08431E4B-7F56-4EE1-BD88-AB15AD295264"
+    },
+    {
+      "class": "group",
+      "id": "9BB4F867-7904-4946-A448-776292A915A8"
+    },
+    {
+      "class": "text",
+      "id": "E986DE3B-FD1B-4CEB-97FA-D131A066BA5F"
+    },
+    {
+      "class": "bitmap",
+      "id": "ACD0530F-7D45-449C-80B5-04033B134418"
+    },
+    {
+      "class": "text",
+      "id": "6F7CDE4D-5A95-4B61-B85E-5D1A5600C3FD"
+    },
+    {
+      "class": "text",
+      "id": "58308804-94D2-4238-B9D4-F609635FD911"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C811E27D-4BE0-4F69-B48E-690BB477A0BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F115192B-7FC5-47C2-819B-0B66FA383F0B"
+    },
+    {
+      "class": "text",
+      "id": "D6628963-6CDC-45D1-B0D8-ADEEC9FC188B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6807B13-B3D5-4D54-8E1C-DB9764EE779F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E6D91FF-149D-4523-BF19-1FCFED7CDD33"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "980E4F29-769B-4EDF-AEF8-78A84F123ED7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E24A13E-4803-422D-8C8D-1BACAE57F1F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA09B082-6040-4BCF-87DB-FDE131C2428B"
+    },
+    {
+      "class": "text",
+      "id": "AD1AAD67-8B3D-4D16-AA15-12065C91E704"
+    },
+    {
+      "class": "text",
+      "id": "53D79E34-8A5E-44A9-84ED-89002D32F727"
+    },
+    {
+      "class": "text",
+      "id": "859807D0-2804-4A06-A39F-4F784C0FBEA0"
+    },
+    {
+      "class": "text",
+      "id": "E76189DC-34C6-4CC2-A598-C8ED073576CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1FDD197-6B04-4055-B898-C19077D47E14"
+    },
+    {
+      "class": "text",
+      "id": "27E89F3B-457F-420B-BE73-8E27C535DA2C"
+    },
+    {
+      "class": "text",
+      "id": "C701ECFA-2B11-45FA-9482-93B1674891E4"
+    },
+    {
+      "class": "text",
+      "id": "BD8B6BAF-94BB-402C-A578-C1E3B5963A2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12B2B1B7-1D4D-4662-9E43-2BF8FF468158"
+    },
+    {
+      "class": "group",
+      "id": "FA0DDDF7-F66C-4ED6-ACD5-46696B846B5C"
+    },
+    {
+      "class": "group",
+      "id": "A721B9B3-C2B2-44EE-B054-33E4A92F01FF"
+    },
+    {
+      "class": "text",
+      "id": "D12C8650-559B-4880-9501-627A04A2AE39"
+    },
+    {
+      "class": "text",
+      "id": "1ED203AD-1021-4222-A22A-75F172C50CCF"
+    }
+  ],
+  "name": "iPhone",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 736,
+    "name": "iPhone 8 Plus",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

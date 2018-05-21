@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "do_objectID": "377B112D-38AE-4E11-A822-36B8E630A103",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "27D14A9D-BD28-4498-B2ED-1FC5314F730B"
+    },
+    {
+      "class": "artboard",
+      "id": "6337185C-8451-4526-8826-83624F7110A0"
+    },
+    {
+      "class": "artboard",
+      "id": "A48C20EB-721F-4EE8-BFC1-726D9A058876"
+    },
+    {
+      "class": "artboard",
+      "id": "4CA1D048-AD9D-4679-B36E-D9696DE85375"
+    },
+    {
+      "class": "artboard",
+      "id": "ABE84D75-E99C-438E-A618-B4086DB31FA0"
+    },
+    {
+      "class": "artboard",
+      "id": "848474C5-38AA-4F03-9F67-3697231D6D8B"
+    },
+    {
+      "class": "artboard",
+      "id": "17F62288-4AF7-4F2E-8475-63EFFF324742"
+    },
+    {
+      "class": "artboard",
+      "id": "99C5DBEC-EEEE-4E5E-9340-FB46A54F413B"
+    },
+    {
+      "class": "artboard",
+      "id": "7E19D9C5-0704-46D6-9983-FEAFE5402F74"
+    },
+    {
+      "class": "artboard",
+      "id": "922977ED-8E18-4ECF-B78D-2754E88B5222"
+    },
+    {
+      "class": "artboard",
+      "id": "DDF3C966-29BD-4C98-951D-1BB7C93936E4"
+    },
+    {
+      "class": "artboard",
+      "id": "DD8E52D5-BB62-4724-BABD-A85309A47BC7"
+    },
+    {
+      "class": "artboard",
+      "id": "941D3617-E098-46CB-AA07-1B27D38A92EA"
+    },
+    {
+      "class": "artboard",
+      "id": "BA67338A-3EF0-4130-A7AF-D1F13122F157"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
